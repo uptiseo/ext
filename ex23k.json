@@ -329,5 +329,9 @@
 { "pageex23k": { "link": "https://www.kwconnect.com/redirect?url=https://",  "title": "ex"} },
 { "pageex23k": { "link": "https://www.gladbeck.de/ExternerLink.asp?ziel=https://",  "title": "ex"} },
 { "pageex23k": { "link": "https://www.e-tsuyama.com/cgi-bin/jump.cgi?jumpto=https://",  "title": "ex"} },
-{ "pageex23k": { "link": "https://partnerpage.google.com/url?q=https://",  "title": "ex"} }  
+{ "pageex23k": { "link": "https://partnerpage.google.com/url?q=https://",  "title": "ex"} },
+{ "pageex01k": { "link": "https://www.bing.com/news/apiclick.aspx?url=https://",  "title": "ex"} },
+{ "pageex01k": { "link": "https://webbanner.jobstreet.com/redirect.asp?url=https://",  "title": "ex"} },
+{ "pageex01k": { "link": "https://sp2.onelink.me/1705367009?af_web_dp=https://",  "title": "ex"} },
+{ "pageex01k": { "link": "https://groups.iese.edu/click?r=https://	",  "title": "ex"} }  
 ] } }
