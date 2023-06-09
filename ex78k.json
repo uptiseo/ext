@@ -1,4 +1,4 @@
 { "ex78kbasket": { "pageex78kList": [ 
-{ "pageex78k": { "link": "https://www.google.com/url?q=https://" } }, 
-{ "pageex78k": { "link": "https://maps.google.com/url?q=https://" } } 
+{ "pageex78k": { "link": "https://www.google.com/url?q=https://",  "title": "ex78"} }, 
+{ "pageex78k": { "link": "https://maps.google.com/url?q=https://",  "title": "ex78"} }
 ] } }
