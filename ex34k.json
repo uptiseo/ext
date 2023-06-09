@@ -1,4 +1,4 @@
 { "ex34kbasket": { "pageex34kList": [ 
-{ "pageex34k": { "link": "https://www.google.com/url?q=https://" } }, 
-{ "pageex34k": { "link": "https://maps.google.com/url?q=https://" } } 
+{ "pageex34k": { "link": "https://www.google.com/url?q=https://",  "title": "ex34"} },
+{ "pageex34k": { "link": "https://maps.google.com/url?q=https://",  "title": "ex34"} }
 ] } }
